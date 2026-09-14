@@ -2,9 +2,9 @@
 
 ## Identitas Peserta
 
-- Nama: ........................................................
-- Kelas: ........................................................
-- Tanggal pengumpulan: ...........................................
+- Nama: Aditya salman suntana
+- Kelas: XI 1
+- Tanggal pengumpulan: 14/09/2026
 
 ## Tujuan Pembelajaran
 
